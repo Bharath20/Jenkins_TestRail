@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+<class name="test.TestScripts">
+      <methods>
+        <include name="C1947" />    
+<!--         <include name="C1948" />  -->
+<!--         <include name="C12155" />   -->
+<!--         <include name="C1952" />  -->
+<!--         <include name="C1949_C1950" /> -->
+<!--         <include name="C11989" /> -->
+<!--         <include name="C11990" /> -->
+<!--         <include name="C11991" /> -->
+<!--         <include name="C12005" /> -->
+<!--         <include name="C12006" /> -->
+<!--         <include name="C58622" /> -->
+<!--         <include name="C63316" /> -->
+<!--         <include name="C25354" /> -->
+<!--         <include name="C58631" /> -->
+<!--         <include name="C1869" /> -->
+<!--         <include name="C1871" /> -->
+<!--         <include name="C1870" /> -->
+<!--         <include name="C1951" /> -->
+<!--  		<include name="C68055" /> -->
+<!--         <include name="C1937" /> -->
+<!--         <include name="C1944"/> -->
+<!--         <include name="C1945"/> -->
+<!--         <include name="C1946"/> -->
+<!--         <include name="C1938"/> -->
+<!--         <include name="C1939" /> -->
+<!--         <include name="C1940" /> -->
+<!--         <include name="C1942"/> -->
+<!--         <include name="C11987"/> -->
+
+       </methods>
+        </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
